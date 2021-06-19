@@ -1,0 +1,8 @@
+Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=5.0.7.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9
+DevExpress.XtraEditors.ImageComboBoxEdit, DevExpress.XtraEditors.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+Bunifu.UI.WinForms.BunifuShapes, Bunifu.UI.WinForms.BunifuShapes, Version=5.0.7.0, Culture=neutral, PublicKeyToken=null
+Bunifu.UI.WinForms.BunifuVScrollBar, Bunifu.UI.WinForms.BunifuScrollBar, Version=5.0.7.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9
+DevExpress.XtraEditors.ButtonEdit, DevExpress.XtraEditors.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.PopupGalleryEdit, DevExpress.XtraBars.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
